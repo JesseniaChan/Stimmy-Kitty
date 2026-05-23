@@ -23,3 +23,7 @@
 1. Save your changes.
 2. Refresh the extension on `chrome://extensions`.
 3. Reopen the popup.
+
+## Image asset
+
+The popup kitten image is a generated local cartoon PNG at `kitten.png`.
